@@ -1,0 +1,2 @@
+# szofttech
+Szoftvertech Gyak
